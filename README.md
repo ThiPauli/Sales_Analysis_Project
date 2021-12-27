@@ -32,5 +32,12 @@
 * Plotting bar charts and lines graphs to visualize the results.
 
 ## Data analysis
+* December was the best month with more than 4 million dollars in sales.
+<img src="Sales Analysis\images\Sales by Month.png" width="700" />
 
-<img src="Sales Analysis\images\Sales by Month.png" width="600" />
+
+* San Francisco is the highest purchasing city.
+
+<img src="Sales Analysis\images\Sales by City.png" width="700" />
+
+
