@@ -31,13 +31,19 @@
 * Using .transform() method to get all product names of the same order.
 * Plotting bar charts and lines graphs to visualize the results.
 
-## Data analysis
-* December was the best month with more than 4 million dollars in sales.
-<img src="Sales Analysis\images\Sales by Month.png" width="700" />
+## Data analysis and visualizations
+* Defining the total sales per each month in order to know what month had the highest profit and its values.
+<img src="Sales Analysis\images\Sales by Month.png" width="600" />
 
+* Defining the total sales and getting the results per city.
+<img src="Sales Analysis\images\Sales by City.png" width="500" height="400" />
 
-* San Francisco is the highest purchasing city.
+* Evaluating the purchase's time of all cities (top) as well as for each city (bottom)(Seattle (WA) in this case). Evaluated by the hour purchased in each sale.
+<img src="Sales Analysis\images\Sales by Hour.png" width="500"/>
+<img src="Sales Analysis\images\Sales by Hour in Seattle (WA).png" width="500" height="300"/>
 
-<img src="Sales Analysis\images\Sales by City.png" width="700" />
+* Evaluating the most sold products. Data grouped by their products and the total number of sales. Also, the price of each product was considered to evaluate their relationship.
+<img src="Sales Analysis\images\Sales by Product and Price.png" width="500" height="400" />
 
-
+* Evaluating the orders which have more than 1 purchase by the same customer to see which products are most sold together.
+<img src="Sales Analysis\images\Top 5 pairs products bought together in one order.png" width="500" height="400"/>
