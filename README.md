@@ -33,4 +33,4 @@
 
 ## Data analysis
 
-![saasas](Sales Analysis/images/Sales_by_Month.png)
+<img src="Sales Analysis\images\Sales by Month.png" width="600" />
