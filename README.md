@@ -4,8 +4,8 @@
 - Analysing the data from an electronic store, which contains 12 months worth of sales data.
 - Getting insights from the data to understand some correlations in order to increase the store profits.
 - Exploring the sales by their product types, costs, purchase city, time of the year and time of purchase.
-- The main Python libraries used in this project analysis were Pandas, Numpy, Matplotlib and Seaborn. Access the Jupyter Notebook **[here](https://github.com/ThiPauli/Sales_Analysis_Project/blob/main/Sales%20Analysis/Electronics%20Sales%20Analysis.ipynb)**
-- Sales Dashboard was built in Python and the Streamlit and Plotly libraries. Access the Python code **[here](https://github.com/ThiPauli/Sales_Analysis_Project/blob/main/app.py)**
+- The main Python libraries used in this project analysis were Pandas, Numpy, Matplotlib and Seaborn. Access the Jupyter Notebook **[here](https://github.com/ThiPauli/Sales_Analysis_Project/blob/main/Sales%20Analysis/Electronics%20Sales%20Analysis.ipynb)**.
+- Sales Dashboard was built in Python and the Streamlit and Plotly libraries. Access the Python code **[here](https://github.com/ThiPauli/Sales_Analysis_Project/blob/main/app.py)**.
 - The Dashboard was deployed using Heroku. Acess the Sales Dashboard via https://saleseletronicsdashboard.herokuapp.com/
 
 ## Objectives
@@ -33,4 +33,4 @@
 
 ## Data analysis
 
-![Heat map of data distribution](Images/Correlation_heatmap.png)
+![saasas](Sales Analysis/images/Sales_by_Month.png)
