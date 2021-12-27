@@ -49,3 +49,4 @@
 <img src="Sales Analysis\images\Top 5 pairs products bought together in one order.png" width="550" height="450"/>
 
 ## Sales Dashboard
+![](Sales_Analysis_Project/web_app.PNG)
