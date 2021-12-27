@@ -45,5 +45,7 @@
 * Evaluating the most sold products. Data grouped by their products and the total number of sales. Also, the price of each product was considered to evaluate their relationship.
 <img src="Sales Analysis\images\Sales by Product and Price.png" width="500" height="400" />
 
-* Evaluating the orders which have more than 1 purchase by the same customer to see which products are most sold together.
-<img src="Sales Analysis\images\Top 5 pairs products bought together in one order.png" width="500" height="400"/>
+* Evaluating the orders which have more than 1 purchase by the same customer to see which products are most sold together. Evaluated the total number of sales of the pair of products bought together.
+<img src="Sales Analysis\images\Top 5 pairs products bought together in one order.png" width="550" height="450"/>
+
+## Sales Dashboard
