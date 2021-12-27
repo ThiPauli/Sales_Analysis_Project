@@ -15,7 +15,7 @@
 * Which products sold the most?
 
 ### Additionally, other questions which may help to understand relationships in order to decision-making process in the future to increase the sales.
-* Which day time customers bought the most? Order x Time.
+* Which hour of the day customers bought the most? Order x Time.
 * Which products are bought together? Orders which have more than 1 purchase.
 
 ## Exploratory Data Analysis and Data Cleaning
