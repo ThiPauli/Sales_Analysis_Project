@@ -16,7 +16,7 @@
 
 ### Additionally, other questions which may help to understand relationships in order to decision-making process in the future to increase the sales.
 * Which hour of the day customers bought the most? Order x Time.
-* Which products are bought together? Orders which have more than 1 purchase.
+* Which products are bought together? Orders which had more than 1 purchase.
 
 ## Exploratory Data Analysis and Data Cleaning
 ### Data Cleaning
@@ -49,4 +49,13 @@
 <img src="Sales Analysis\images\Top 5 pairs products bought together in one order.png" width="550" height="450"/>
 
 ## Sales Dashboard
-![](Sales_Analysis_Project/web_app.PNG)
+- The dashboard show up some KPIs at the top (Total Sales, Total Products Sold and Average Sales per Order).
+- It is possible to filter by cities and products and check it out how the charts behaves.
+<img src="web_app.PNG" width="1000"/>
+
+## Conclusions
+* December was the best month with more than 4.5 million dollars in sales followed by October and November, which also generated great results. Results might reflect the demand of this specific time of the year.
+* There is more demands for this type of product in San Francisco.
+* The peaks of purchasing time (hour) for some cities are slightly different from the general analysis. Therefore, if the goal is to display advertisements in a certain time to maximize the likelihood of customer’s buying product, it is possible to plan the advertisement better for the specific city. For example, Seattle (WA) has a peak at 18 (6 PM), so it could be better to display advertisements for that public a little bit earlier from 18 (6 PM).
+* The most sold products are basically accesories, such as bateries, USB cable and so on, which are products that need to be replaced more frequently than other products. Additionally, the costs of them might get an influence as well. There is some correlationship for the most sold products have the lowest prices too. However, for instance, Macbook is more expensive than LG washing machine but there is more demand for this kind of product.
+* The 2 most products bought together in one order was iPhone and Lightning Charging Cable. Therefore, it adivisable, when the customer buys one of them, to recommend the other one. Last but not least, the marketing could plan package options for those items to increase the sales even more.
